@@ -10,3 +10,12 @@
 API:
 
 > [CNode API](https://cnodejs.org/api)
+
+规范: 
+> [CSS 规范](https://cssguidelin.es/)
+
+> [JS 规范](https://github.com/airbnb/javascript)
+
+> [React 规范](https://github.com/airbnb/javascript/tree/master/react)
+
+> [CSS-in-JavaScript 规范](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
