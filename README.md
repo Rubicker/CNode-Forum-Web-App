@@ -1,5 +1,5 @@
 # CNode-Forum-Web-App
-目前计划采用 React + React-Router + Material UI + MobX 作为技术栈
+目前计划采用 React + React-Router + MobX + Immutable.js + styled-components + Material UI 作为技术栈
 
 > [React](https://facebook.github.io/react/)
 
@@ -7,11 +7,13 @@
 
 > [Mobx](https://mobx.js.org/)
 
+> [Immutable.js](https://facebook.github.io/immutable-js/)
+
 > [styled-components](https://www.styled-components.com/)
 
 > [Material-UI](https://facebook.github.io/react/)
 
-> [Immutable.js](https://facebook.github.io/immutable-js/)
+> [Create React App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
 API:
 
