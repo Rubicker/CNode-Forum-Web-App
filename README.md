@@ -5,9 +5,12 @@
 
 > [React-Router](https://reacttraining.com/react-router/web/guides/quick-start)
 
+> [Mobx](https://mobx.js.org/)
+
+> [styled-components](https://www.styled-components.com/)
+
 > [Material-UI](https://facebook.github.io/react/)
 
-> [Mobx](https://mobx.js.org/)
 
 API:
 
@@ -22,5 +25,3 @@ API:
 
 > [CSS-in-JavaScript 规范](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 
-CSS in JS :
-> [styled-components](https://www.styled-components.com/)
