@@ -1,7 +1,7 @@
 # CNode-Forum-Web-App
 目前计划采用 React + Material UI + MobX 作为技术栈
 
-> [Preact](https://preactjs.com/)
+> [React](https://facebook.github.io/react/)
 
 > [Material-UI](https://facebook.github.io/react/)
 
