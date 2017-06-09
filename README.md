@@ -28,6 +28,8 @@ API:
 
 > [CSS-in-JavaScript 规范](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 
+> [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
 参考文章:
 
 > [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
