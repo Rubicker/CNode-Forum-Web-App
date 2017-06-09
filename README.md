@@ -1,7 +1,9 @@
 # CNode-Forum-Web-App
-目前计划采用 React + Material UI + MobX 作为技术栈
+目前计划采用 React + React-Router + Material UI + MobX 作为技术栈
 
 > [React](https://facebook.github.io/react/)
+
+> [React-Router](https://reacttraining.com/react-router/web/guides/quick-start)
 
 > [Material-UI](https://facebook.github.io/react/)
 
