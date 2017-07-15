@@ -15,6 +15,8 @@
 
 > [Create React App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
+> [emotion](https://emotion.sh/)
+
 API:
 
 > [CNode API](https://cnodejs.org/api)
