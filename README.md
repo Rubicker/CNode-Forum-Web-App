@@ -36,4 +36,4 @@ API:
 
 > [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
 
-> [emotion The Next Generation of CSS-in-JS(https://medium.com/@tkh44/emotion-ad1c45c6d28b)
+> [emotion The Next Generation of CSS-in-JS](https://medium.com/@tkh44/emotion-ad1c45c6d28b)
